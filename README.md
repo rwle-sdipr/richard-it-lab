@@ -31,3 +31,6 @@ Larger projects combining multiple technologies.
 
 ## Goal
 The goal of this repository is to build a practical IT lab where I can learn through experimentation while keeping a history of what I've learned and built.
+
+## Linux Mint Workstation
+This repository is now configured for Git and GitHub development from my Linux Mint workstation.
