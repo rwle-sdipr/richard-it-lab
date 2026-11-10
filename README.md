@@ -34,3 +34,6 @@ The goal of this repository is to build a practical IT lab where I can learn thr
 
 ## Linux Mint Workstation
 This repository is now configured for Git and GitHub development from my Linux Mint workstation.
+
+## Branch Practice
+This line was created on the practice-branch.
